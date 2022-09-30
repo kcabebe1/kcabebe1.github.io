@@ -7,4 +7,5 @@ Hi GSU fellow students isn't that fun?
 
 ![GSU Logo!](https://paws.gsu.edu/wp-content/themes/gsu-flex-2/images/logo.png)
 
+## My Love and I enjoying the Beach
 ![alt text!](Us.jpg)
