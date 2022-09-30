@@ -7,4 +7,4 @@ Hi GSU fellow students isn't that fun?
 
 ![The San Juan Mountains are beautiful!](https://paws.gsu.edu/wp-content/themes/gsu-flex-2/images/logo.png)
 
-![alt text!](path to your image)
+![alt text!](Us.jpg)
