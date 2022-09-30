@@ -1,7 +1,10 @@
 # kcabebe1.github.io
-Use this one
+Testing out website creation
 
-Hi GSU isn't that fun?
-## header 2
+Hi GSU fellow students isn't that fun?
 
-<h1>Heading level 1</h1>
+## My University
+
+![The San Juan Mountains are beautiful!](https://paws.gsu.edu/wp-content/themes/gsu-flex-2/images/logo.png)
+
+![alt text!](path to your image)
